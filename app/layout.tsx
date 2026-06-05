@@ -35,10 +35,10 @@ return (
 
         <div className="space-x-6">
           <a href="/">Home</a>
-          <a href="/private-access">Private Access</a>
           <a href="/gallery">Gallery</a>
           <a href="/about">About</a>
           <a href="/contact">Contact</a>
+          <a href="/private-access">Private Access</a>
         </div>
       </nav>
 
