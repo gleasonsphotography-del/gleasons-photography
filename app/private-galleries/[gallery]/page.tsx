@@ -15,13 +15,7 @@ export default async function GalleryPage({
       <p className="text-xl mb-8">
         Welcome to your private gallery.
       </p>
-<Image
-  src="/client-galleries/practice/1000011312.jpg"
-  alt="Practice Gallery Photo"
-  width={800}
-  height={600}
-  className="rounded-lg mb-6"
-/>
+
       <div className="grid grid-cols-3 gap-4">
         <div className="h-64 bg-zinc-800 rounded-lg"></div>
         <div className="h-64 bg-zinc-800 rounded-lg"></div>
