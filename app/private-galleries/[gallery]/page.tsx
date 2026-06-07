@@ -14,6 +14,8 @@ export default async function GalleryPage({
 
       <p className="text-xl mb-8">
         Welcome to your private gallery.
+        Sorry for the delay but the photos may not show up till Tuesday.
+        If you have any questions please contact me at gleasonsphotography@gmail.com
       </p>
 
       <div className="grid grid-cols-3 gap-4">
